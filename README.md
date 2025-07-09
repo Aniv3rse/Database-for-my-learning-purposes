@@ -21,3 +21,9 @@ The image of the relational database.
 
 ![BD Relacional](https://github.com/user-attachments/assets/5b943210-a93f-47cd-b9db-9a29a8e2f6c8)
 
+
+
+Finally a data dictionary
+![dic 1](https://github.com/user-attachments/assets/02faa504-f399-4a97-9018-a929b9f1c801)
+![dic 2](https://github.com/user-attachments/assets/93122d0e-6b26-48ea-becf-1d0a9d02264b)
+
